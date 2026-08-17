@@ -11,4 +11,4 @@ The Python implementation used an object-oriented programming approach. I create
 Overall, this assignment showed that the same problem can be solved successfully with different programming paradigms. C emphasized procedures and memory management, OCaml emphasized functions and immutable data, and Python emphasized classes, objects, and encapsulation. Of the three approaches, I found Python the easiest to implement, while OCaml required the largest adjustment in how I approached the problem. Working with all three languages helped me better understand how programming paradigms influence program structure and problem-solving techniques.
 
 GitHub Repository:
-[Insert your GitHub repository link here]
+https://github.com/AnnaLevinskaia/Assignment-7-Multi-Paradigm-Problem-Solving/tree/main
